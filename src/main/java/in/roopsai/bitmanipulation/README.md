@@ -1,0 +1,3 @@
+| S.No | Problem Name                | Link to LeetCode                                      | Description                                                                                        | TC     | SC     |
+|------|-----------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------|--------|--------|
+| 1    | Single Number               | [LeetCode 136](https://leetcode.com/problems/single-number/)           | XOR all elements of array. XOR has two properties: 0\^any = any, any\^any = 0 | O(n)   | O(1)   |
