@@ -1,4 +1,3 @@
-```markdown
 # Arrays Package
 
 This package contains solutions to various array-related problems from LeetCode. Each problem is solved with a detailed explanation and efficient approach.
