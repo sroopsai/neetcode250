@@ -1,7 +1,9 @@
-# Two Pointers Package
+# Project Overview
 
-This package contains solutions to various LeetCode problems using the two pointers technique.
+This project contains solutions to various LeetCode problems, organized by different packages.
 
-| S.No | Problem Name                | Link to LeetCode                                      | Description                                                                                        | TC     | SC     |
-|------|-----------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------|--------|--------|
-| 1    | Reverse String              | [LeetCode 344](https://leetcode.com/problems/reverse-string/)           | Initialize two pointers, one at the start and the other at the end of the array. Keep swapping the elements pointed by the pointers until the pointers cross each other. | O(n)   | O(1)   |
+| S.No | Package Name          | Problems Solved |
+|------|-----------------------|-----------------|
+| 1    | [`arrays`](src/main/java/in/roopsai/arrays/README.md)              | 9               |
+| 2    | [`bitmanipulation`](src/main/java/in/roopsai/bitmanipulation/README.md)     | 1               |
+| 3    | [`twopointers`](src/main/java/in/roopsai/twopointers/README.md)     | 2               |
