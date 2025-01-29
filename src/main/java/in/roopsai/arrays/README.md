@@ -15,3 +15,4 @@ This package contains solutions to various LeetCode problems using array techniq
 | 9    | Top K Frequent Elements     | [LeetCode 347](https://leetcode.com/problems/top-k-frequent-elements/) | Use a hash map and a priority queue to find the k most frequent elements. | O(n log k) | O(n)   |
 | 10   | Encode and Decode Strings   | [LeetCode 271](https://leetcode.com/problems/encode-and-decode-strings/) | Encode a list of strings to a single string and decode it back to the list of strings. | O(n)   | O(n)   |
 | 11   | Group Anagrams              | [LeetCode 49](https://leetcode.com/problems/group-anagrams/) | Use a hash map to group anagrams together. | O(n \* k) | O(n \* k) |
+| 12   | Valid Sudoku                | [LeetCode 36](https://leetcode.com/problems/valid-sudoku/) | Use hash sets to check if a 9x9 Sudoku board is valid. | O(1)   | O(1)   |
