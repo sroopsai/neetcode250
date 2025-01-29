@@ -14,3 +14,4 @@ This package contains solutions to various LeetCode problems using array techniq
 | 8    | Search in Rotated Sorted Array | [LeetCode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Use binary search to find the target element in a rotated sorted array. | O(log n) | O(1)   |
 | 9    | Top K Frequent Elements     | [LeetCode 347](https://leetcode.com/problems/top-k-frequent-elements/) | Use a hash map and a priority queue to find the k most frequent elements. | O(n log k) | O(n)   |
 | 10   | Encode and Decode Strings   | [LeetCode 271](https://leetcode.com/problems/encode-and-decode-strings/) | Encode a list of strings to a single string and decode it back to the list of strings. | O(n)   | O(n)   |
+| 11   | Group Anagrams              | [LeetCode 49](https://leetcode.com/problems/group-anagrams/) | Use a hash map to group anagrams together. | O(n \* k) | O(n \* k) |
